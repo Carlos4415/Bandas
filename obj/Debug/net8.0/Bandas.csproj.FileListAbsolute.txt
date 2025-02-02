@@ -1,0 +1,14 @@
+C:\Users\carlo\source\repos\Bandas\bin\Debug\net8.0\Bandas.exe
+C:\Users\carlo\source\repos\Bandas\bin\Debug\net8.0\Bandas.deps.json
+C:\Users\carlo\source\repos\Bandas\bin\Debug\net8.0\Bandas.runtimeconfig.json
+C:\Users\carlo\source\repos\Bandas\bin\Debug\net8.0\Bandas.dll
+C:\Users\carlo\source\repos\Bandas\bin\Debug\net8.0\Bandas.pdb
+C:\Users\carlo\source\repos\Bandas\obj\Debug\net8.0\Bandas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\Bandas\obj\Debug\net8.0\Bandas.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\Bandas\obj\Debug\net8.0\Bandas.AssemblyInfo.cs
+C:\Users\carlo\source\repos\Bandas\obj\Debug\net8.0\Bandas.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\Bandas\obj\Debug\net8.0\Bandas.dll
+C:\Users\carlo\source\repos\Bandas\obj\Debug\net8.0\refint\Bandas.dll
+C:\Users\carlo\source\repos\Bandas\obj\Debug\net8.0\Bandas.pdb
+C:\Users\carlo\source\repos\Bandas\obj\Debug\net8.0\Bandas.genruntimeconfig.cache
+C:\Users\carlo\source\repos\Bandas\obj\Debug\net8.0\ref\Bandas.dll
